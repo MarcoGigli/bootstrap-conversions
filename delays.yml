@@ -1,0 +1,21 @@
+name: delays
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.4
+  - ipykernel
+  - lifelines
+  - openpyxl
+  - tqdm=4.65.0
+  - ipywidgets
+  - pytest
+  - coverage
+  - pytest-cov
+  - seaborn=0.11.2
+  - scikit-learn=1.0.2
+  - matplotlib=3.7.1
+  - numpy=1.24.3
+  - pandas=2.0.1
+  - scipy=1.10.1
+  - jax=0.4.26
